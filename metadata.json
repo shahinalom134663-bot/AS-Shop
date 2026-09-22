@@ -1,0 +1,7 @@
+{
+  "name": "MarketBazaar",
+  "description": "Professional e-commerce app with Facebook Marketplace product posting, visual search by photo, mobile number registration, refer and earn wallet, and bKash/Nagad payment gateways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
